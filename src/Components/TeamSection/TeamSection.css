@@ -1,0 +1,15 @@
+.mamber-inner{
+    border-radius: 5px;
+    display: inline-block;
+    padding: 16px 40px 11px 40px;
+    background-color: white;
+    box-shadow: 0px 16px 35px 0px rgba(0, 0, 2, 0.08);
+}
+.member-name{
+    position: relative;
+    transform: translateY(-20px);
+    transition: 0.3s;
+}
+ .member-name:hover{
+    transform: translateY(-50px);
+ }

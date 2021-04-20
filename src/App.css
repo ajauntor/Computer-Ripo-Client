@@ -1,0 +1,13 @@
+.button-Style{
+  font-size: 18px;
+font-weight: 500;
+color: #fff;
+padding: 17px 55px;
+font-family: poppins,sans-serif;
+display: inline-block;
+border-radius: 30px;
+background-position: 0 0;
+background-color: tomato;
+text-decoration: none;
+}
+
